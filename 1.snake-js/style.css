@@ -1,0 +1,29 @@
+
+.content , .content-button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+.content-button {
+  flex-direction: row;
+}
+
+ h1 {
+  color: green;
+}
+
+button {
+  margin-top: 1rem;
+  margin-right: 0.5rem;
+  height: 2rem;
+  width: 5rem;
+}
+
+.beta{
+  display: block;
+  padding-top: 1rem;
+  color: gray;
+}
